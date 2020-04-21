@@ -2,7 +2,7 @@
  
 
 ## River Ecosystem Smart Algorithm
-<img src="images/bear_fish.jpg" width = "400">
+<img src="images/bear_fish_gif.jpg" width = "400">
 
 
 
